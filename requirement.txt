@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+pdfplumber
+python-docx
+pytesseract
+Pillow
+spacy
+python-dotenv
+requests
+aiohttp
